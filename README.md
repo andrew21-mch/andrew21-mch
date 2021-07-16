@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew21-mch
-- 👀 I’m interested in Web Developent, Data science and programming
-- 🌱 I’m currently learning PHP for backend development
+- 👀 I’m interested in Web Application Developent, System Programming and Administration, Data science and Mobile App
+- 🌱 I’m currently learning PHP/Laravel Python/Django for backend development
 - 💞️ I’m looking to collaborate on anything that has to do with web being in database, frontend or backend
 - 📫 How to reach me is through my email
 
