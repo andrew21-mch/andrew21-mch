@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nfon Andrew
+- <center>Hi, I’m Nfon Andrew
 - 
 - 👀 I’m interested in 
 - <li> Web Application Developent <img src ="https://static.thenounproject.com/png/246821-200.png"/> </li>
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning PHP/Laravel Python/Django for backend development
 - 💞️ I’m looking to collaborate on anything that has to do with web being in database, frontend or backend
 - 📫 How to reach me is through my email
-
+</center>👋 
 <!---
 andrew21-mch/andrew21-mch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
