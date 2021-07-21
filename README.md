@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @andrew21-mch
-- 👀 I’m interested in Web Application Developent, System Programming and Administration, Data science and Mobile App
+- 👋 Hi, I’m Nfon Andrew
+- 
+- 👀 I’m interested in 
+- <li> Web Application Developent <img src ="https://static.thenounproject.com/png/246821-200.png"/> </li>
+-  <li> System Programming and Administration <img src="https://cdn3.iconfinder.com/data/icons/programming-fourteen-black-and-white/128/software-computer-program-system-512.png"/> </li> and <li> <img src="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png"/>Data science and Mobile App</li>
 - 🌱 I’m currently learning PHP/Laravel Python/Django for backend development
 - 💞️ I’m looking to collaborate on anything that has to do with web being in database, frontend or backend
 - 📫 How to reach me is through my email
