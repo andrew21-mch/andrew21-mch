@@ -3,7 +3,8 @@
 <h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
-<li> 💻 Data science</li>  <li> and Mobile App</li>
+<li> 💻 Data science</li>  
+<li> 💻 and Mobile App</li>
 <p><li>🌱 I’m currently learning PHP/Laravel Python/Django for backend development</li> 
 <h1> :mechanical_arm: Very Good at team work</h1>
  <h1>📫 Contact Me </h1>
