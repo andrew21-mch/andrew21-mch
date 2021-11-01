@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Nfon Andrew</h1>
-<img src ="https://static.thenounproject.com/png/246821-200.png"/>
+<center><img src ="https://static.thenounproject.com/png/246821-200.png"/></center>
 <h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
