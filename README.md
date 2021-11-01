@@ -8,8 +8,8 @@
 <p><li>🌱 I’m currently learning PHP/Laravel Python/Django for backend development</li> 
 <h1> :mechanical_arm: Very Good at team work</h1>
  <h1>📫 Contact Me </h1>
-<a href="https://twitter.com/nfonandrew73">Twitter </a> <br>
-<a href="https://facebook.com/nfonandrew">Facebook</a><br>
+<a href="https://twitter.com/nfonandrew73">:twitter:Twitter </a> <br>
+<a href="https://facebook.com/nfonandrew">:facebook:Facebook</a><br>
 <a href="nfonandrew73@gmail.com">:e-mail: Email</a><br>
 </p> 
 <!---
