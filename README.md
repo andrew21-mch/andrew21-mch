@@ -2,7 +2,6 @@
 <p align="center">
   <img width="400" height="400" src="https://static.thenounproject.com/png/246821-200.png">
 </p>
-<center><img src ="https://static.thenounproject.com/png/246821-200.png"/></center>
 <h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
