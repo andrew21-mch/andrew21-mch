@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Nfon Andrew</h1>
 <p align="center">
-  <img width="400" height="400" src="https://static.thenounproject.com/png/246821-200.png">
+  <img width="400" height="400" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p>
 <h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
