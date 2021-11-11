@@ -1,9 +1,7 @@
 <h1>👋 Hi, I’m Nfon Andrew</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrew21-mch](https://github.com/andrew21-mch/github-profile-trophy)
 <p align="center">
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=onedark)](https://github.com/andrew21-mch/github-profile-trophy)
 <h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
