@@ -2,7 +2,9 @@
 <p align="center">
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
-<img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=chalk"
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=chalk">
+</p>
 <h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
