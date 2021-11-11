@@ -2,7 +2,7 @@
 <p align="center">
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
-<p>
+<p width="1000">
   <img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
 </p>
 <h2>I’m interested in </h2> 
