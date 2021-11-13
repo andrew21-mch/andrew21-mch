@@ -13,10 +13,7 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="30" width="80">
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch"/>
-<img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true" />
-<p width="100">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
-  <img src="https://camo.githubusercontent.com/andrew21-mch">
+<img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
   
 </p>
 </p>
