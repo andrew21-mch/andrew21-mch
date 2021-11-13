@@ -16,7 +16,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
 </p>
 
-<h2>I’m interested in </h2> 
+<p><h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
 <li> 💻 Data science</li>  
