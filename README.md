@@ -4,6 +4,9 @@
 </p> 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch" />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew21-mch"
+/>
   
 </p>
 <p width="100">
