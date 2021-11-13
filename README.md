@@ -12,11 +12,10 @@
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" width="80" />
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="30" width="80">
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch"/>
 <img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
-  
 </p>
-</p>
+
 <h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
