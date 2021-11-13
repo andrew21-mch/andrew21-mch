@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Nfon Andrew</h1>
+<h1 align="center">👋 Hi, I’m Nfon Andrew</h1>
 <p align="center">
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
