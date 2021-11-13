@@ -30,8 +30,8 @@
   
   <a href="https://mailto:nfonandrew73@gmail.com/">
   <img
-    alt="Linkedin"
-    src="https://www.google.com/search?q=gmail+image&tbm=isch&source=iu&ictx=1&fir=6NbxOOm81kknGM%252Cs9yAWExfgav_cM%252C_%253BCsQyWZwCj0Aq3M%252CT0IaL89e8I5rvM%252C_%253BhSg5AoCMosGfZM%252CARL-4qWhqu3xvM%252C_%253BVDxVGTW6YtlXRM%252CjQvvzfqYPiundM%252C_%253BGzSck_-dEt5r5M%252CHXlYQidSHaB-yM%252C_%253BXTcHUDMp4n6KMM%252Cm0F5PzQ-QPKXsM%252C_%253BuGwURSGi6ipmoM%252Cgq0MKfGXxpm4iM%252C_%253BCKykHsUShEXs5M%252CVmHZwvx3_XiPrM%252C_%253BWVLEvuHVbfwQxM%252CeAZBCWaPowT9hM%252C_%253BAu6q-nwpMRrkJM%252C5_NY7ngliqVMnM%252C_%253BWtfc9O2TSGMi0M%252CZdyeRxfGwrAv7M%252C_%253BOC2RtTfn-XZmCM%252CjQvvzfqYPiundM%252C_%253B23wEamrieYPNdM%252CJzhdZESEzyvw8M%252C_&vet=1&usg=AI4_-kTvGGXnWsXA6cZoFqvfos1jdJaKdQ&sa=X&ved=2ahUKEwiM24O33JT0AhUNYsAKHZ2lDzYQ9QF6BAgPEAE#imgrc=CsQyWZwCj0Aq3M"/>
+    alt="Email"
+    src="https://cdn.vox-cdn.com/thumbor/Tbqi3ZF9Qz0fTJIUvkgQe3FdN0k=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg"/>
   </a>
 <a href="https://twitter.com/nfonandrew73">Twitter </a> <br>
 <a href="https://facebook.com/nfonandrew">Facebook</a><br>
