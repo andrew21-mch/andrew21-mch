@@ -2,12 +2,7 @@
 <p align="center">
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
-<p>
 <img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew21-mch"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrew21-mch"/>
-  
-</p>
 <p width="100">
   <img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
   <img src="https://camo.githubusercontent.com/andrew21-mch">
