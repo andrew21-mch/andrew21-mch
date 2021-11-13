@@ -3,7 +3,7 @@
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
 <p>
-![github stats](https://github-readme-stats.vercel.app/api?username=andrew21-mch)
+<img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch" />
   
 </p>
 <p width="1000">
