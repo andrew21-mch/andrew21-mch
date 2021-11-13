@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch" />
   
 </p>
-<p width="1000">
+<p width="100">
   <img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
   <img src="https://camo.githubusercontent.com/andrew21-mch">
 </p>
