@@ -7,9 +7,9 @@
   <img alt="PHP" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="C" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="SQL" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
+  <img alt="C" src="https://img.shields.io/badge/Sass-CC6699?logo=c&logoColor=white&style=for-the-badge" />
+  <img alt="SQL" src="https://img.shields.io/badge/Gatsby-663399?logo=sql&logoColor=white&style=for-the-badge" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Gatsby-663399?logo=kotlin&logoColor=white&style=for-the-badge" />
   
 </p>
 <p width="1000">
