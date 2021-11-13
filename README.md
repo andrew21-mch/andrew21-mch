@@ -22,9 +22,7 @@
 <li> 💻 System Programming Administration</li>
 <li> 💻 Data science</li>  
 <li> 💻 and Mobile App</li>
-<p><li>🌱 I’m currently learning PHP/Laravel Python/Django for backend development</li> 
-<h1> :mechanical_arm: Very Good at team work</h1>
- <h1>📫 Contact Me </h1>
+<h1>📫 Contact Me </h1>
  <a href="https://twitter.com/nfonandrew73">
   <img
     alt="Twitter"
