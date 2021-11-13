@@ -31,7 +31,7 @@
   <a href="https://mailto:nfonandrew73@gmail.com/">
   <img
     alt="Email"
-    src="https://cdn.vox-cdn.com/thumbor/Tbqi3ZF9Qz0fTJIUvkgQe3FdN0k=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg"/>
+    src="https://cdn.vox-cdn.com/thumbor/Tbqi3ZF9Qz0fTJIUvkgQe3FdN0k=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" height="2" width="50"/>
   </a>
 <a href="https://twitter.com/nfonandrew73">Twitter </a> <br>
 <a href="https://facebook.com/nfonandrew">Facebook</a><br>
