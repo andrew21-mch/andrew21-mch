@@ -18,6 +18,21 @@
 <a href="https://facebook.com/nfonandrew">Facebook</a><br>
 <a href="nfonandrew73@gmail.com">Email</a><br>
 </p> 
+
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@master
+          ACCLAIM_USER: <andrew21-mch> # optional, but default will use the same from github
 <!---
 andrew21-mch/andrew21-mch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
