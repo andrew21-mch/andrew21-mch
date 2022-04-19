@@ -2,9 +2,10 @@
 <p align="center">
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
+ <h2>My Stacks of Interest</h2>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" width="80" />
-  <img alt="Java" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" width="80" />
+  <img alt="Java" src="https://img.shields.io/badge/java-23FF2D20?style=for-the-badge&logo=java&logoColor=white" height="30" width="80" />
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30" width="80" />
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="30" width="80" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="30" width="80" />
@@ -13,15 +14,19 @@
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" width="80" />
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="30" width="80">
 </p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch"/>
-<img src="https://github-profile-trophy.vercel.app/?username=andrew21-mch&theme=juicyfresh">
+
 </p>
 
 <p><h2>I’m interested in </h2> 
 <li> 💻 Web Application Developent</li>
 <li> 💻 System Programming Administration</li>
 <li> 💻 Data science</li>  
-<li> 💻 and Mobile App</li>
+<li> 💻 Mobile App</li>
+<li> 💻 Arduino Programming </li>
+
+
 <h1>📫 Contact Me </h1>
  <a href="https://twitter.com/nfonandrew73">
   <img
