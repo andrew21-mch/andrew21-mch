@@ -3,7 +3,7 @@
   <img width="200" height="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/58951422?v=4">
 </p> 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch" style="width: 60%"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrew21-mch" style="width: 60%; height: 60%; border-radius: 50%"/>
 
 </p>
 <h2>My Stacks of Interest</h2>
